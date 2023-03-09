@@ -1,10 +1,12 @@
 <p align="center">
-<img src="https://github.com/SafnaPrasetiono/Dashboard-Part1/blob/main/images/wallpaper.png" width="500">
+  <img src="images/read1.png" width="500">
+  <br>
+  <img src="images/read2.png" width="500">
 </p>
 
-## Tentang desain web ini
+## Tentang aplikasi ini
 
-Desain web ini dibuat dengan menggunakan beberapa framework diantaranya :
+Tanaman yang berkualitas dihasilkan dengan memperhatikan kelembaban tanah dan suhu tanaman. Kelembaban dan suhu tanaman dipengaruhi oleh sistem irigasi tanaman dengan sebuah plant sprinkler yang dapat mengontrol debit air sesuai dengan kebutuhan tanaman. Menggunakan Soilmoisture Sensor yang berfungsi sebagai pembaca kelembaban tanah tanaman dan DHT11 sebagai pembaca suhu udara di sekitar tanaman. Kemudian modul relay berfungsi wuntuk mengaktifkan dan menonaktifkan pompa air. Aplikasi ini digunakan untuk menampilkan hasil data dan Modul ESP8266 juga digunakan sebagai tampilan hasil data sensor yang akan dikirimkan pada halaman ini.
 
 - [Bootstrap v5.0](https://getbootstrap.com/).
 - [Font-Awesome v4.7](https://fontawesome.com/v4.7/).
@@ -12,7 +14,6 @@ Desain web ini dibuat dengan menggunakan beberapa framework diantaranya :
 - [Chart.js 3.3.2](https://www.chartjs.org/).
 - [Fonts Google](https://fonts.google.com/).
 
-Web desain dashboard ini dapat digunakan untuk project kamu dalam membuat dashboard admin, sehingga dapat mempersingkat anda untuk membuat tampilan desain dashboard. kamu juga bisa menggunakan web desain ini pada php framework atupun javascript framework. 
 
 
 ## Info
